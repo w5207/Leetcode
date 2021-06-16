@@ -1,6 +1,3 @@
-import java.util.ArrayDeque;
-import java.util.Queue;
-
 class Solution {
   private static final int[] xBias = { 0, 0, 1, -1 };
   private static final int[] yBias = { 1, -1, 0, 0 };
